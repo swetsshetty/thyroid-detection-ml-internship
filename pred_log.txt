@@ -1,0 +1,35 @@
+2022-10-19/20:38:01		Start of prediction !!
+2022-10-19/20:38:24		 pickle file for prediction  is loaded !!
+2022-10-19/20:38:24		  prediction complete !!
+2022-10-19/20:42:33		Start of prediction !!
+2022-10-19/20:42:35		 pickle file for prediction  is loaded !!
+2022-10-19/20:42:35		  prediction complete !!
+2022-10-19/20:44:42		Start of prediction !!
+2022-10-19/20:45:03		 pickle file for prediction  is loaded !!
+2022-10-19/20:45:03		  prediction complete !!
+2022-10-19/21:35:13		Start of prediction !!
+2022-10-19/21:35:37		 pickle file for prediction  is loaded !!
+2022-10-19/21:35:37		  prediction complete !!
+2022-10-19/21:41:22		Start of prediction !!
+2022-10-19/21:41:24		 pickle file for prediction  is loaded !!
+2022-10-19/21:41:24		  prediction complete !!
+2022-10-19/21:51:48		Start of prediction !!
+2022-10-19/21:51:50		 pickle file for prediction  is loaded !!
+2022-10-19/21:51:50		  prediction complete !!
+2022-10-20/15:20:42		Start of prediction !!
+2022-10-20/15:21:07		 pickle file for prediction  is loaded !!
+2022-10-20/15:21:07		  prediction complete !!
+2022-10-20/15:22:45		Start of prediction !!
+2022-10-20/15:23:12		 pickle file for prediction  is loaded !!
+2022-10-20/15:23:12		  prediction complete !!
+2022-10-22/00:50:28		Start of prediction !!
+2022-10-22/14:02:24		Start of prediction !!
+2022-10-22/14:48:42		Start of prediction !!
+2022-10-22/14:48:55		 pickle file for prediction  is loaded !!
+2022-10-22/14:48:55		  prediction complete !!
+2022-10-22/14:51:25		Start of prediction !!
+2022-10-22/14:51:26		 pickle file for prediction  is loaded !!
+2022-10-22/14:51:26		  prediction complete !!
+2022-10-22/14:51:52		Start of prediction !!
+2022-10-22/14:51:54		 pickle file for prediction  is loaded !!
+2022-10-22/14:51:54		  prediction complete !!
